@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\bin\Debug\netstandard2.0\Company.deps.json
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\bin\Debug\netstandard2.0\Company.dll
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\bin\Debug\netstandard2.0\Company.pdb
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\obj\Debug\netstandard2.0\Company.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\obj\Debug\netstandard2.0\Company.AssemblyInfo.cs
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\obj\Debug\netstandard2.0\Company.dll
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company2\obj\Debug\netstandard2.0\Company.pdb
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\bin\Debug\netstandard2.0\Company.deps.json
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\bin\Debug\netstandard2.0\Company.dll
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\bin\Debug\netstandard2.0\Company.pdb
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\obj\Debug\netstandard2.0\Company.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\obj\Debug\netstandard2.0\Company.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\obj\Debug\netstandard2.0\Company.AssemblyInfo.cs
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\obj\Debug\netstandard2.0\Company.dll
+C:\Users\User\Desktop\Zaliczenie-Obiektowe-Moodle-master\Company\obj\Debug\netstandard2.0\Company.pdb
